@@ -79,6 +79,6 @@ const myRouter = createBrowserRouter([
       },
     ],
   },
-], {basename:'/Plant_Shop'});
+]);
 
 export default myRouter;
